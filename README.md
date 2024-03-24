@@ -1,2 +1,3 @@
 # Magnificent_Evening
-Mini-Project Maginificent_Evening of Mountains using html and css 
+
+Developed a beautiful mini-Project Maginificent Evening of Mountains using HTML5 & CSS3.
